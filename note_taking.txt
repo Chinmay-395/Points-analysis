@@ -20,7 +20,7 @@ function pointers,
 global initializers.
 
 
-Date: 09/20/2026
-Type: Log
 
-This branch will be to practice writing your own LLVM simple pass and progress towards writing a program analysis.
+
+    
+    
